@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImage from "../assets/heroimage.png";
+import HeroImage from "../assets/heroimage.jpg";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 
@@ -12,10 +12,10 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a Student at UOG
+            I'm a junior developer and Student studying IS at UOG
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I am on my last year. I am hoping to graduate this year.
+            I am on my fourth, hoping to graduate this year and start my career in programming  
           </p>
 
           <div>
